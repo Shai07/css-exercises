@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(240, 122, 141);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one {
+    color: rgb(72, 72, 232);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(41, 213, 41);
+    font-size: 24px;
+    font-weight: 700;
+}
